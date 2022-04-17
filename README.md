@@ -1,3 +1,3 @@
 # IEFMWZOsGyak
 
-Tóth Dániel Márk (IEFMWZ) mérnökinformatikus hallgató személyes GitHub repository-ja Operációs Rendszerek tantárgyhoz.
+Tóth Dániel Márk (IEFMWZ) Mérnökinformatikus hallgató személyes GitHub Repository-ja Operációs Rendszerek tantárgyhoz.
